@@ -1,0 +1,1 @@
+User_Id,Rating_Count,Rating_Average,Bahari,Budaya,Cagar Alam,Pusat Perbelanjaan,Taman Hiburan,Tempat Ibadah

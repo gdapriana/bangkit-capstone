@@ -1,0 +1,1 @@
+Place_Id,Price,Place_Ratings,Bahari,Budaya,Cagar Alam,Pusat Perbelanjaan,Taman Hiburan,Tempat Ibadah
